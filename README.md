@@ -4,7 +4,7 @@
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"> **Shorisound** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25">
 ####
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300">
 
 ## 🐍 Mi Stack de Aprendizaje
 
